@@ -1,0 +1,5 @@
+.div-deshabilitado {
+  pointer-events: none;
+  /* Opcional: Puedes añadir estilos adicionales para indicar visualmente que está deshabilitado, como opacidad reducida */
+  opacity: 0.6;
+}
